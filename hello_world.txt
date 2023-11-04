@@ -1,0 +1,3 @@
+Hello, i am sylvester
+I'm learning the git on odin project.
+so far course is amazing.
